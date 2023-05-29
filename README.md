@@ -47,5 +47,5 @@ Diagram
 
 Circuit Diagram
 ![image](https://github.com/bauskaraneesh/Dimmer-using-DIAC-TRIAC/assets/132990280/1c3b094a-ad32-4081-b9f8-2bf971590fa8)
-**
-Thank You**
+
+Thank You
